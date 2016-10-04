@@ -1,7 +1,7 @@
 MESE-tutorial(Simplified)
 ==============================
 基本概念
-—————————
+—
 # 概述
 
 MESE 全称 Management and Economics Simulation Exercise，最初是哈佛大学制作的商业模拟软件。在上世纪末本世纪初，青年成就（JA）组织广泛地使用这套软件来进行高中、大学经济学课程（JA Economics）教学。
