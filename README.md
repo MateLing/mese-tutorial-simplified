@@ -91,7 +91,7 @@ MESE-Realtime 是基于 MESE-Next 创建的一种新玩法。MESE-Realtime 中�
 
 MESE-Realtime 中的经验对 MESE 玩家也有参考价值，例如 MESE-Realtime 的中期，最优的价格经常会停留在 40 这条特殊的分界线上，这在 MESE 的一些局面中同样适用。
 
-——————————————————————————————————————————————————————————————
+
 
 *本文由Ling zeheng(Matt)重新修订自[hczhcz/mese-tutorial](https://github.com/hczhcz/mese-tutorial)
 为方便非圈内玩家对于MESE的使用与完善而设。*
