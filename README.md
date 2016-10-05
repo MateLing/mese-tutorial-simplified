@@ -95,4 +95,5 @@ MESE-Realtime 中的经验对 MESE 玩家也有参考价值，例如 MESE-Realti
 
 
 *本文由Ling zeheng(Matt)重新修订自[hczhcz/mese-tutorial](https://github.com/hczhcz/mese-tutorial)
+原文由hcz（Huo chezhan）编写，Ling zeheng（Matt）校对修改。
 为方便非圈内玩家对于MESE的使用与完善而设。*
